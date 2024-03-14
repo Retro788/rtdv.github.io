@@ -1,0 +1,46 @@
+{
+  "title": "| Frontend Developer",
+  "spotify": {
+    "current": "Recently listened"
+  },
+  "loading": "Loading...",
+  "online": {
+    "online": "Online",
+    "offline": "Offline",
+    "dnd": "Busy",
+    "since": "Since"
+  },
+  "chat": {
+    "greeting": "Hi, I'm Septiembre.IA , what do you want to help you?"
+  },
+  "birthday": {
+    "age": "age",
+    "years-old": "years old",
+    "time": "days to my birthday"
+  },
+  "github": "My Github profile, usually i used like a social media.",
+  "projectsandtest": {
+    "title": "Projects and tests",
+    "description": "Here you can find some of my projects, tests or experiments."
+  },
+  "projects": {
+    "title": "Projects",
+    "all": "All",
+    "personal": "Personal",
+    "practice": "Practice",
+    "experiments": "Experiments",
+    "recommended": "Recommended",
+    "courses": "Courses"
+  },
+  "certificates": {
+    "enlvl": "English level",
+    "platzi": "Full Stack Developer with high performance language"
+  },
+  "functions": {
+    "changeLanguage": "Change language",
+    "changeTheme": "Change theme",
+    "goToProjects": "Go to projects",
+    "noEnergy": "Give me energy"
+  },
+  "exp": "years of experience"
+}

@@ -1,0 +1,46 @@
+{
+  "title": "| Desarrollador Frontend",
+  "spotify": {
+    "current": "Escuchado recientemente"
+  },
+  "loading": "Cargando...",
+  "online": {
+    "online": "En línea",
+    "offline": "Desconectado",
+    "dnd": "Ocupado",
+    "since": "Desde"
+  },
+  "chat": {
+    "greeting": "Hola, soy el la Asistente de Retro, ¿En que te puedo ayudar?"
+  },
+  "birthday": {
+    "age": "edad",
+    "years-old": "años",
+    "time": "dias para mi cumpleaños"
+  },
+  "github": "Mi perfil de Github, habitualmente lo uso como red social.",
+  "projectsandtest": {
+    "title": "Proyectos y pruebas",
+    "description": "Aqui hay algunas cositas mias."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "all": "Todos",
+    "personal": "Personales",
+    "practice": "Prácticas",
+    "experiments": "Experimentos",
+    "recommended": "Recomendados",
+    "courses": "Cursos"
+  },
+  "certificates": {
+    "enlvl": "Nivel de inglés",
+    "platzi": "Desarrollador full stack de lenguajes de alto rendimiento"
+  },
+  "functions": {
+    "changeLanguage": "Cambiar idioma",
+    "changeTheme": "Cambiar tema",
+    "goToProjects": "Ir a los proyectos",
+    "noEnergy": "Dame energía"
+  },
+  "exp": "años de experiencia"
+}
